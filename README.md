@@ -1,5 +1,7 @@
 # Rust
 ## Official
-### https://www.rust-lang.org/
+- [ ] https://www.rust-lang.org/
 ## Courses
-### https://app.pluralsight.com/library/courses/rust-fundamentals/table-of-contents
+- [ ] https://app.pluralsight.com/library/courses/rust-fundamentals/table-of-contents
+- [ ] https://github.com/rust-lang/rust
+
